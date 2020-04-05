@@ -1,3 +1,5 @@
+
+
 class Node:
     """ Node class for linked list """
     def __init__(self, d, nxt=None):
